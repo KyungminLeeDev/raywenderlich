@@ -9,3 +9,6 @@
 - **5. Stack Challenges**
     - [Reverse an Array](./books/data-structures-n-algorithms-in-swift/05-stacks-challenge/projects/study/StackChallenges.playground/Pages/Challenge1.xcplaygroundpage/Contents.swift)
     - [Balance the parentheses](./books/data-structures-n-algorithms-in-swift/05-stacks-challenge/projects/study/StackChallenges.playground/Pages/Challenge2.xcplaygroundpage/Contents.swift)
+- 6. [Linked Lists](./books/data-structures-n-algorithms-in-swift/06-linked-list/projects/study/LinkedList.playground/Contents.swift)
+    - [LinkedList](./books/data-structures-n-algorithms-in-swift/06-linked-list/projects/study/LinkedList.playground/Sources/LinkedList.swift)
+    - [Node](./books/data-structures-n-algorithms-in-swift/06-linked-list/projects/study/LinkedList.playground/Sources/Node.swift)
